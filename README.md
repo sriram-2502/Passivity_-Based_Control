@@ -6,4 +6,4 @@ We develoepd a passivity based controller to stabilize a qarter car model in the
 
 We extened this formulation for a wheeled quadruped robot.
 
-Here is the [project report] (https://github.com/sriram-2502/Passivity_-Based_Control/blob/main/Passivity%20based%20control%20of%20vehicle%20dyanmics%20and%20quadrupeds.pdf)
+Here is the [project report](https://github.com/sriram-2502/Passivity_-Based_Control/blob/main/Passivity%20based%20control%20of%20vehicle%20dyanmics%20and%20quadrupeds.pdf)
